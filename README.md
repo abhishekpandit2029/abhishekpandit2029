@@ -2,16 +2,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5733&center=true&width=435&lines=Frontend+Developer;Crafting+Modern+Web+UI;Passionate+About+Code+%26+Design"/>
 </p>
 
-### 🙋‍♂️ About Me
-
+### <h2>🙋‍♂️ About Me</h2>
 - 🚀 **Frontend Developer** building beautiful **UI** and smooth **UX**.
-- 💻 I work with modern tools and frameworks.
-- 🎯 Currently sharpening my **React** and **Next.js** skills.
-- 🌱 Always learning and exploring new technologies.
-- 💼 [Portfolio](#your-portfolio-link) | 💻 [LinkedIn](#your-linkedin-link)
+- 💻 I specialize in **React.js**, **Next.js**, and modern **JavaScript** frameworks.
+- 🧩 I love turning designs into pixel-perfect, responsive, and scalable websites.
+- 🛠️ Passionate about writing clean, efficient, and reusable **code**.
+- 🌱 Constantly exploring new tools and technologies to stay ahead in the field.
+- 🎯 Skilled in **state management** using **Redux** and **Redux Toolkit**.
+- 🔧 Experienced in deploying projects on **Vercel** and optimizing performance.
+- 🤝 Open to collaboration on exciting projects and contributing to **open-source**.
+- 🎨 Creative problem solver with an eye for detail and a love for **UI/UX Design**.
 
-### 🚀 Tech Stack
-
+###  <h2>🚀 Tech Stack</h2>
 <p>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -36,7 +38,7 @@
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-### 🌐 Connect With Me
+###  <h2>🌐 Connect With Me</h2>
 <p>
   <a href="https://www.linkedin.com/in/abhishek2029/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
