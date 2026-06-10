@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5733&center=true&width=500&lines=Software+Development+Engineer;Frontend+Developer+%7C+React+%26+Next.js;Building+Fintech+%26+E-commerce+Platforms;Passionate+About+Code+%26+Design"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5733&center=true&width=500&lines=Software+Development+Engineer;Frontend+Developer+%7C+React+%26+Next.js; Building+Fintech+%26+E-commerce+Platforms;Passionate+About+Code+%26+Design"/>
 </p>
 
 <h2>🙋‍♂️ About Me</h2>
