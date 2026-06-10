@@ -2,6 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5733&center=true&width=650&lines=Software+Development+Engineer;Frontend+Developer+%7C+React+%26+Next.js;Building+Fintech+%26+E-commerce+Platforms;Passionate+About+Code+%26+Design"/>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekpandit2029/abhishekpandit2029/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekpandit2029/abhishekpandit2029/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/abhishekpandit2029/abhishekpandit2029/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 <h2>🙋‍♂️ About Me</h2>
 
 - 🚀 **Software Development Engineer** building beautiful **UI** and smooth **UX** for fintech and e-commerce platforms.
